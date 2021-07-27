@@ -9,6 +9,8 @@ b. Thymeleaf
 c. HTML
 
 
+Answer : Thymeleaf
+
 
 
 
@@ -24,10 +26,12 @@ c. @Service
 d. @Data
 
 
+Answer: @Data
 
 
 
-3. How will you include a dependency in a Project?
+
+3. Which of the Following includes a dependency in a Project?
 
 
 a. Copy & Paste the .Jar file inside src folder
@@ -37,6 +41,11 @@ b. Add dependency inside pom.xml file
 c. Add dependency inside build.gradle file
 
 D. All the above
+
+Answer: b. Add dependency inside pom.xml file
+
+        c. Add dependency inside build.gradle file
+
 
 
 
@@ -52,6 +61,8 @@ c. spring-boot-maven-plugin
 
 d. spring-boot-html\
 
+Answer: spring-boot-starter-web
+
 
 
 5. Database Objects must be annotated with
@@ -65,6 +76,8 @@ c. @Column
 
 d. @Repository
 
+
+Answer: @Entity
 
 
 
