@@ -4,12 +4,12 @@ MULTIPLE CHOICE
 
 a. JSP
 
-b. Thymeleaf
+b. Thymeleaf -B
+-
 
 c. HTML
 
 
-Answer : Thymeleaf
 
 
 
@@ -23,10 +23,9 @@ b. @RestController
 
 c. @Service
 
-d. @Data
+d. @Data -D
+-
 
-
-Answer: @Data
 
 
 
@@ -38,13 +37,11 @@ a. Copy & Paste the .Jar file inside src folder
 
 b. Add dependency inside pom.xml file
 
-c. Add dependency inside build.gradle file
+c. Add dependency inside build.gradle file -C
+-
 
 D. All the above
 
-Answer: b. Add dependency inside pom.xml file
-
-        c. Add dependency inside build.gradle file
 
 
 
@@ -53,7 +50,8 @@ Answer: b. Add dependency inside pom.xml file
 4. What is the dependency need to create a Spring boot web Application
 
 
-a. spring-boot-starter-web
+a. spring-boot-starter-web -A
+-
 
 b. spring-boot-starter-test
 
@@ -61,7 +59,6 @@ c. spring-boot-maven-plugin
 
 d. spring-boot-html\
 
-Answer: spring-boot-starter-web
 
 
 
@@ -70,14 +67,14 @@ Answer: spring-boot-starter-web
 
 a. @Table
 
-b. @Entity
+b. @Entity -B
+-
 
 c. @Column
 
 d. @Repository
 
 
-Answer: @Entity
 
 
 
@@ -87,7 +84,8 @@ Answer: @Entity
 
 a. Methods annotated with @RestController return a String or JSON object
 
-b. Methods annotated with @Controller returns HTML filename
+b. Methods annotated with @Controller returns HTML filename -B
+-
 
 c. Methods annotated with @RestController automatically converts Outputs with HTML
 

@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyNameController {
 
-    private static final String template = "Hello my name is, %s!";
+    //private static final String template = "Hello my name is, %s!";
 
     @GetMapping("/testime")
-    public MyName myName(@RequestParam(value = "name", defaultValue = "Ofego") String name) {
-        return new MyName(String.format(template, name));
+    public String myName(@RequestParam(value = "name", defaultValue = "Azza") String name) {
+        return "Hey my name is: " + (new MyName(name)).getName();
     }
 }
